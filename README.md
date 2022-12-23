@@ -23,14 +23,20 @@ This project aims to consume a public api of the cartoon Rick and Morty, in this
 
 ## Running the project
 
-```bash
 - Perform a git clone on your directory
+```bash
 git clone https://github.com/lnmont/api-request-test-loader-more.git
+````
 - Access the directory
+```bash
 cd api-request-test-loader-more
+```
 - Install dependencies using Yarn or even NPM
+```bash
 yarn or npm install
+```
 - Run the project using yarn or npm
+```bash
 yarn dev or npm run dev
 ```
 
