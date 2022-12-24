@@ -18,7 +18,7 @@ This project aims to consume a public api of the cartoon Rick and Morty, in this
 
 - [ViteJS](https://vitejs.dev/) 🚀
 - [Axios](https://axios-http.com/ptbr/docs/intro) 🚀
-- [Reack Skeleton](https://skeletonreact.com/)
+- [React Skeleton](https://skeletonreact.com/)
 
 
 ## Running the project
